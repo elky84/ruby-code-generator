@@ -1,0 +1,8 @@
+source 'http://rubygems.org'
+
+gem 'json'
+gem 'simple_xlsx_reader'
+gem 'rest-client'
+
+gem 'work_queue'
+gem 'digest'

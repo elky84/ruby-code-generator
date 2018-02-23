@@ -1,0 +1,54 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.out
+*.app
+
+# Project temponary files
+*.sdf
+*.suo
+
+# Debug output files
+*_Debug.*
+
+# Build intermediate files
+*.idb
+*.obj
+*.tlog
+*.lastbuildstate
+*.ipch
+*.cache
+
+# Build Intermediate directories
+Intermediate/
+Debug/
+Library/
+
+# Log files
+*.log
+
+
+# ignore rails tempnary files.
+*.lock
+*.project
+
