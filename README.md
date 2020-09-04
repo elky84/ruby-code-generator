@@ -10,7 +10,7 @@
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/elky84/ruby_code_generator.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/elky84/ruby_code_generator.svg)
 
-# ruby_code_generator
+# ruby-code-generator
 * ruby & C# code generator library.
 
 ## CodeGenerator
